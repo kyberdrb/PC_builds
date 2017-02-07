@@ -1,0 +1,7 @@
+﻿Spotreba elektriny:
+-za tyzden
+	zaciatok merania: 4.6.2016 17:00
+	koniec merania: 11.6.2016 17:00
+	kWh: 6.22
+	Cena za týždeň: 0.93
+	Cena za rok: 0.93*52= cca 50€

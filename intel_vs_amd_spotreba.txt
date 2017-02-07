@@ -1,0 +1,9 @@
+14,5124 rozdiel amd od intelu pri plnej zatazi kazdy den na 4 hodiny
+3,066	rozdiel amd od intelu v kludovom stave kazdy den na 4 hodiny
+
+17,5784
+
+105 + 17 = 122
+
+za 122 eur mam intel skylake, ktory zerie omnoho menej => investicia do trochu drahsieho procesora sa mi vrati
+po jednom roku
